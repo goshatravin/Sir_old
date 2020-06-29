@@ -1,0 +1,46 @@
+        <svg
+          id="list"
+          xmlns="http://www.w3.org/2000/svg"
+          width="25.04"
+          height="35.05"
+          viewBox="0 0 24.04 32.05"
+        >
+          <defs />
+          <title>Список дел</title>
+          <polygon
+            id="list-box"
+            class="list-cls-1"
+            points="24 8.04 24 32.05 0 32.05 0 0.05 16.05 0.05 24 8.04"
+          />
+          <rect
+            id="line"
+            class="list-cls-2"
+            x="3.92"
+            y="12.06"
+            width="16.06"
+            height="2"
+          />
+          <rect
+            id="line-2"
+            data-name="line"
+            class="list-cls-2"
+            x="3.92"
+            y="16.06"
+            width="16.06"
+            height="2"
+          />
+          <rect
+            id="line-3"
+            data-name="line"
+            class="list-cls-2"
+            x="3.92"
+            y="20.06"
+            width="16.06"
+            height="2"
+          />
+          <polygon
+            id="angel"
+            class="list-cls-3"
+            points="24.04 8.08 16 8.08 16 0 16.05 0.05 24 8.04 24.04 8.08"
+          />
+        </svg>

@@ -1,0 +1,28 @@
+ <svg
+        id="logo"
+        xmlns="http://www.w3.org/2000/svg"
+        width="33"
+        height="33"
+        viewBox="0 0 48.19 48.16"
+      >
+        <defs />
+        <title>Логотип</title>
+        <path
+          class="logo-cls-1"
+          d="M37.1,36.87"
+          transform="translate(-7.92 -7.88)"
+        />
+        <polygon
+          class="logo-cls-1"
+          points="0 20.12 12 20.12 12 36.16 28.12 36.16 28.12 48.16 0 48.16 0 20.12"
+        />
+        <polygon
+          class="logo-cls-1"
+          points="48.19 28.04 36.19 28.04 36.19 12 20.07 12 20.07 0 48.19 0 48.19 28.04"
+        />
+        <path
+          class="logo-cls-1"
+          d="M41,27.22"
+          transform="translate(-7.92 -7.88)"
+        />
+      </svg>

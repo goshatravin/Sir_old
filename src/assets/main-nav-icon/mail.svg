@@ -1,0 +1,37 @@
+<svg
+          id="mail"
+          xmlns="http://www.w3.org/2000/svg"
+          width="33.66"
+          height="35.25"
+          viewBox="0 0 33.66 25.25"
+        >
+          <defs />
+          <title>Почта</title>
+          <rect
+            id="letter"
+            class="mail-cls-1"
+            x="0.83"
+            y="0.7"
+            width="32"
+            height="24"
+          />
+          <polyline
+            id="top-line"
+            class="mail-cls-2"
+            points="0.83 0.7 16.83 17.16 32.83 0.7"
+          />
+          <line
+            class="mail-cls-2"
+            x1="32.83"
+            y1="24.7"
+            x2="23.35"
+            y2="10.46"
+          />
+          <line
+            class="mail-cls-2"
+            x1="10.32"
+            y1="10.47"
+            x2="0.83"
+            y2="24.7"
+          />
+        </svg> 
